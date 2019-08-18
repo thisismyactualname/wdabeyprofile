@@ -1,4 +1,12 @@
-# Welcome To My Profile!
+# Welcome To My Profile!    
+Sections:
+```
+About Me 
+Interest in IT  
+Ideal Job  
+Personality  
+Project
+```
 Assignment 1 (Intro to Info Tech)
 
 My name is William Abeyanayake (s3707728).
