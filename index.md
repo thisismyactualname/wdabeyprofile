@@ -40,8 +40,7 @@ I have an expectation to learn the most current standards in Information Technol
 
 [Job Advertisement](https://jobsinjapan.com/jobs/it-engineer-robot-%e6%b3%a8%e7%9b%aeai%e4%bc%81%e6%a5%ad-featured-ai-company/)
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/job.PNG)
-![alt text](5bigpersotest.PNG)
+![alt text](job.PNG)
 
 The position is an Information Technology Engineer in Artificial Intelligence. The job engages the development of a robot control system through non-programming and automation. The position is particularly appealing to me as I can expand on the progress of Artificial Intelligence and integrate robotics on a commercial level.
 
@@ -67,20 +66,20 @@ I have completed the following tests to understand my personality and learning s
 
 Results: *[Detailed Description](https://www.onlinepersonalitytests.org/mbti/infp/)*
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/myerbriggs.PNG)
+![alt text](myerbriggs.PNG)
 
 **[Big Five Personality test](https://www.truity.com/test/big-five-personality-test)**
 
 Results:
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/5bigpersotest.PNG)
+![alt text](5bigpersotest.PNG)
 
 **[Learning Style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)**
 
 Results:
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/learning%20style.png)
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/tactile.PNG)
+![alt text](learning style.png)
+![alt text](tactile.PNG)
 
 These results gave me a detailed view of my learning style, personality traits and how I interact with people around me. The results have been accurate in their assessment of me and they have quite meaningful insights into my own personal characteristics. It also highlights aspects of myself that I can improve on such as ‘extraversion’ which will boost my social experiences. 
 
@@ -133,11 +132,11 @@ Even though all this is set up, human error is still a major drawback as if secu
 
 - High resolution surveillance camera (4K+ recording/capture, large image sensor, advanced digital/optical zoom, infrared vision) – The camera also needs to be able to detect, recognize and identify at distance with endless pan and a tilt function. Wireless functionality/IP access.
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/cam.jpg)
+![alt text](cam.jpg)
 
 - Display panels in a private monitoring room providing real time camera feeds and complete analysis.
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/ismcontrolroom.jpg)
+![alt text](ismcontrolroom.jpg)
 
 - A database server or servers with expansive storage and RAID backup. Alternatively, Data can be hosted in secure cloud storage
 
@@ -145,7 +144,7 @@ Even though all this is set up, human error is still a major drawback as if secu
 
 - Facial Detection API’s like Emotient or Affectiva to overlay/intergrate into the camera feed to detect in real time the user’s expressed emotion, categorising the data in each variable (anger, frustration, sad, happy etc) into threat levels. 
 
-![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/apiimg.png)
+![alt text](apiimg.png)
 
 - Client application for security members around venue (accessible via personal device i.e. mobile phone, iPad etc)
 Application requires updated android and iOS support and polls data from the database or cloud storage. Notifies security member of threats detected via pop up/shade notifications. Provides a low-quality stream of camera feeds.
