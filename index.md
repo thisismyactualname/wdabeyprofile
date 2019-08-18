@@ -120,7 +120,7 @@ Even though all this is set up, human error is still a major drawback as if secu
 
 > Some tools and technologies will be required to set up the project.
 
-*Physical equipment such as 
+*Physical equipment such as* 
 
 - High resolution surveillance camera (4K+ recording/capture, large image sensor, advanced digital/optical zoom, infrared vision) – The camera also needs to be able to detect, recognize and identify at distance with endless pan and a tilt function. Wireless functionality/IP access.
 
@@ -128,7 +128,7 @@ Even though all this is set up, human error is still a major drawback as if secu
 
 - A database server or servers with expansive storage and RAID backup. Alternatively, Data can be hosted in secure cloud storage
 
-*Software required such as
+> Software required such as
 
 - Facial Detection API’s like Emotient or Affectiva to overlay/intergrate into the camera feed to detect in real time the user’s expressed emotion, categorising the data in each variable (anger, frustration, sad, happy etc) into threat levels. 
 
@@ -137,7 +137,7 @@ Application requires updated android and iOS support and polls data from the dat
 
 ## What skills are required to complete this project
 
-*To complete the project some skills are needed,
+*To complete the project some skills are needed,*
 
 1. Fluent knowledge in C++/Java is required to write the code associated with the API’s chosen to add to the cameras. Also, to get the system (camera and code) to learning through its own experience and improve on its performance. (Machine learning is also publicly updated through the API)
 
@@ -147,7 +147,7 @@ Application requires updated android and iOS support and polls data from the dat
 
 4. Use of android/apple SDK’s and environments to create an associated mobile application in Java or Kotlin.
 
-***It is very feasible to get obtain the skills required over time and set up the project.
+***It is very feasible to get obtain the skills required over time and set up the project.***
 
 ## Project Outcomes
 
