@@ -62,23 +62,26 @@ I will have to build on my communication skills and have at least a working voca
 
 I have completed the following tests to understand my personality and learning style,
 
-[Myers-Briggs test](https://www.onlinepersonalitytests.org/mbti/)
+**[Myers-Briggs test](https://www.onlinepersonalitytests.org/mbti/)**
 
 Results: 
+
 ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/myerbriggs.PNG)
 
-[Detailed Description:](https://www.onlinepersonalitytests.org/mbti/infp/)
+*[Detailed Description:](https://www.onlinepersonalitytests.org/mbti/infp/)*
 
-[Big Five Personality test](https://www.truity.com/test/big-five-personality-test)
+**[Big Five Personality test](https://www.truity.com/test/big-five-personality-test)**
 
 Results:
+
 ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/5bigpersotest.PNG)
 
-[Learning Style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+**[Learning Style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)**
 
 Results:
+
 ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/learning%20style.png)
-[alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/tactile.PNG)
+![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/tactile.PNG)
 
 These results gave me a detailed view of my learning style, personality traits and how I interact with people around me. The results have been accurate in their assessment of me and they have quite meaningful insights into my own personal characteristics. It also highlights aspects of myself that I can improve on such as ‘extraversion’ which will boost my social experiences. 
 
