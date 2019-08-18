@@ -12,7 +12,7 @@ Assignment 1 (Intro to Info Tech)
 My name is William Abeyanayake (s3707728).
 Email: s3707728@student.rmit.edu.au
 
-## About Me!
+### About Me!
 
 I am a Melbourne born, Sri Lankan student who is currently studying at RMIT City Campus.
 
