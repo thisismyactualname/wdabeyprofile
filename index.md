@@ -12,7 +12,7 @@ Assignment 1 (Intro to Info Tech)
 My name is William Abeyanayake (s3707728).
 Email: s3707728@student.rmit.edu.au
 
-### About Me!
+## About Me!
 
 I am a Melbourne born, Sri Lankan student who is currently studying at RMIT City Campus.
 
@@ -83,12 +83,12 @@ When forming a team, it would be ideal to have a person who prioritizes organiza
 
 *Emotion Detecting Security Cameras (Malicious Intent)*
 
-**What is this project about?**
+### What is this project about?
 This project uses machine learning to detect emotion from the subject, using facial recognition in security cameras. The idea is to increase security in public venues or areas and have real-time threat detection in and around the premises. The project itself is integrating facial detection API’s into security cameras that are optimized to target and focus on the patron’s face. 
 
 Ultimately it analyses the subject’s face and assigns them an emotional state. By analysing the data, we can determine potential risks and can filter them out for secondary screening before entering the venue. As the project detects more faces, through machine learning, its accuracy and consistency will improve.
 
-**Why is it needed?**
+### Why is it needed?
 
 We live in a day and age in which public attacks, of any nature, have become almost expected. In just 2019 and in the United States alone, there has been a counting total of 135 victims from mass shootings, all occurring in public venues. It is a sad reality we all must face but not one we should ignore. 
 
@@ -96,7 +96,7 @@ Increasing the security of our venues and in turn the protection of our communit
 
 This project can be used widespread to create safer environments for people to enjoy.
 
-**How it works**
+### How it works
 
 The product once installed tracks eye movements, facial position, lip and nose size/movement fluctuations, and facial expression. It takes the data it tracks and assigns it to an emotional state based of a criterion. Each emotion fits a certain pattern presented by the patron and the camera records and analysis these patterns in real-time. 
 
@@ -116,7 +116,7 @@ Alongside this the camera possess the ability to work under dark night condition
 
 Even though all this is set up, human error is still a major drawback as if security don’t respond to the products output then the threat still remains. The systems has to be implemented as a core security method and used frequently in addition to physical surveillance.
 
-**What resources are required?**
+### What resources are required?
 
 > Some tools and technologies will be required to set up the project.
 
@@ -135,7 +135,7 @@ Even though all this is set up, human error is still a major drawback as if secu
 - Client application for security members around venue (accessible via personal device i.e. mobile phone, iPad etc)
 Application requires updated android and iOS support and polls data from the database or cloud storage. Notifies security member of threats detected via pop up/shade notifications. Provides a low-quality stream of camera feeds.
 
-## What skills are required to complete this project
+### What skills are required to complete this project
 
 *To complete the project some skills are needed,*
 
@@ -149,7 +149,7 @@ Application requires updated android and iOS support and polls data from the dat
 
 ***It is very feasible to get obtain the skills required over time and set up the project.***
 
-## Project Outcomes
+### Project Outcomes
 
 A successful completion of the project will result in improved security across the venue it is set up in. Intruders or potential threats to people inside the venue will be targeted by officials prior to entering the premises and be dealt with before any damage is done. In turn creating a reduction in attacks to the venue itself and people who frequent it. 
 
