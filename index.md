@@ -41,6 +41,7 @@ I have an expectation to learn the most current standards in Information Technol
 [Job Advertisement](https://jobsinjapan.com/jobs/it-engineer-robot-%e6%b3%a8%e7%9b%aeai%e4%bc%81%e6%a5%ad-featured-ai-company/)
 
 ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/job.PNG)
+![alt text](https://codingexplained.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-21.45.22.png)
 
 The position is an Information Technology Engineer in Artificial Intelligence. The job engages the development of a robot control system through non-programming and automation. The position is particularly appealing to me as I can expand on the progress of Artificial Intelligence and integrate robotics on a commercial level.
 
