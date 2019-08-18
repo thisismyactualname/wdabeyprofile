@@ -64,11 +64,9 @@ I have completed the following tests to understand my personality and learning s
 
 **[Myers-Briggs test](https://www.onlinepersonalitytests.org/mbti/)**
 
-Results: 
+Results: *[Detailed Description](https://www.onlinepersonalitytests.org/mbti/infp/)*
 
 ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/myerbriggs.PNG)
-
-*[Detailed Description:](https://www.onlinepersonalitytests.org/mbti/infp/)*
 
 **[Big Five Personality test](https://www.truity.com/test/big-five-personality-test)**
 
@@ -138,11 +136,15 @@ Even though all this is set up, human error is still a major drawback as if secu
 
 - Display panels in a private monitoring room providing real time camera feeds and complete analysis.
 
+![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/ismcontrolroom.jpg)
+
 - A database server or servers with expansive storage and RAID backup. Alternatively, Data can be hosted in secure cloud storage
 
 > Software required such as
 
 - Facial Detection API’s like Emotient or Affectiva to overlay/intergrate into the camera feed to detect in real time the user’s expressed emotion, categorising the data in each variable (anger, frustration, sad, happy etc) into threat levels. 
+
+![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/apiimg.png)
 
 - Client application for security members around venue (accessible via personal device i.e. mobile phone, iPad etc)
 Application requires updated android and iOS support and polls data from the database or cloud storage. Notifies security member of threats detected via pop up/shade notifications. Provides a low-quality stream of camera feeds.
