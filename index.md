@@ -78,7 +78,7 @@ Results:
 
 Results:
 
-![alt text](learning style.png)
+![alt text](learning%style.png)
 ![alt text](tactile.PNG)
 
 These results gave me a detailed view of my learning style, personality traits and how I interact with people around me. The results have been accurate in their assessment of me and they have quite meaningful insights into my own personal characteristics. It also highlights aspects of myself that I can improve on such as ‘extraversion’ which will boost my social experiences. 
