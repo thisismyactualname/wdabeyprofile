@@ -1,4 +1,5 @@
-# Welcome To My Profile!  ![alt text](
+# Welcome To My Profile!
+ 
 Sections:
 ```
 About Me 
@@ -11,6 +12,8 @@ Assignment 1 (Intro to Info Tech)
 
 My name is William Abeyanayake (s3707728).
 Email: s3707728@student.rmit.edu.au
+
+![alt text](IMG-20190130-WA0009.jpg)
 
 ## About Me!
 
