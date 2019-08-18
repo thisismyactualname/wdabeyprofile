@@ -62,7 +62,7 @@ I have completed the following tests to understand my personality and learning s
 
 [Myers-Briggs test](https://www.onlinepersonalitytests.org/mbti/)
 
-Results: ![alt text](https://raw.githubusercontent.com/thisismyactualname/wdabeyprofile/blob/master/myerbriggs.PNG)
+Results: ![alt text](https://github.com/thisismyactualname/wdabeyprofile/blob/master/myerbriggs.PNG)
 
 [Big Five Personality test](https://www.truity.com/test/big-five-personality-test)
 
